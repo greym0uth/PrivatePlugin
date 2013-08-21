@@ -1,0 +1,8 @@
+name: Messenger
+main: com.Grey.plugin.Plugin
+version: 1.0.1
+description: >
+             Message players with ease.
+commands:
+  message:
+    description: Sends the Player a Message.
